@@ -1,0 +1,12 @@
+{
+  "name": "eslintrc",
+  "owner": "Seiyial",
+  "prefix": "sol",
+  "provider": "github",
+  "defaultFolderName": null,
+  "defaultInstallRelativePath": ".",
+  "defaultFiles": [
+    ".eslintrc"
+  ],
+  "customInstallerPath": "install.ts"
+}
